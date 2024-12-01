@@ -31,3 +31,14 @@
 .social-btn.youtube {
     background-color: #ff0000; /* YouTube color */
 }
+.social-links {
+    display: flex;
+    justify-content: center; /* or space-around, space-between, etc. */
+    list-style: none; /* Remove default bullet points */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+}
+
+.social-links li {
+    margin: 0 10px; /* Add spacing between items */
+}
