@@ -42,3 +42,8 @@
 .social-links li {
     margin: 0 10px; /* Add spacing between items */
 }
+.btn-outline-primary {
+    margin: 10px;
+    padding: 5px 15px;
+    border-radius: 20px;
+  }
